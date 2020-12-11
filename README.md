@@ -29,8 +29,11 @@ npm run start:prod
 
 1. Fork the repo.
 2. clone the repo to your local machine
-3. create your own branch you will be working on from your local repo (pc).
-4. push your updated code to your own branch.
-5. create a pull request (PR).
-6. Do not merge your PR yourself.
+3. create your own branch you will be working on from your local repo (pc) . [git branch name_of_your_branch].
+
+4) switch to your branch.
+
+5. push your updated code to your own branch.
+6. create a pull request (PR).
+7. Do not merge your PR yourself.
    thanks.
