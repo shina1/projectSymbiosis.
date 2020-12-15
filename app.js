@@ -9,6 +9,9 @@ const app = express();
 app.use(express.json());
 
 // route handlers
+app.get('/', (req, res) => {
+  res.json({message: "Welcome to Project Symbiosis"})
+});
 
 // server
 module.exports = app;
